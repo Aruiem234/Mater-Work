@@ -5,4 +5,4 @@ export PASS="1"
 # Run the OpenVPN installation script
 ../openvpn-install.sh
 
-https://github.com/angristan/openvpn-install
+#https://github.com/angristan/openvpn-install
